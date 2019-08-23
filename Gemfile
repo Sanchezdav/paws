@@ -27,6 +27,7 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'devise', '~> 4.7'
 gem 'haml-rails', '~> 2.0'
+gem 'devise-bootstrapped', github: 'king601/devise-bootstrapped', branch: 'bootstrap4'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
